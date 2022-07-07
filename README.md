@@ -23,3 +23,6 @@ Apps Features
 - Custom View
 - Paging3
 
+![page1 (1)](https://user-images.githubusercontent.com/81451454/177679930-21abd834-2cea-4380-b75a-7c681bae4a27.png)
+
+![Page 2](https://user-images.githubusercontent.com/81451454/177679702-0378cf7c-8cd6-43fd-bc92-7f80e92a294a.png)
